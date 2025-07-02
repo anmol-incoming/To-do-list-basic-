@@ -1,4 +1,4 @@
-To-Do List Console App 📝
+To-Do List Basic App 
 
 A simple command-line based to-do list app written in Python.
 
