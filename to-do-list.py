@@ -42,7 +42,7 @@ def to_do_list(added_task,):
                 except ValueError:
                     print("enter only number")
                 except IndexError:
-                    print("cannot delete Numbe does not exist")
+                    print("cannot delete Number does not exist")
                     
         elif num==4:
             break          
