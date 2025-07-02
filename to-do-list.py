@@ -46,7 +46,7 @@ def to_do_list(added_task,):
                     
         elif num==4:
             break          
-    return "exited succesfully" 
+    return "exited successfully" 
 added_task=[]
 final=to_do_list(added_task)
 print(final)
