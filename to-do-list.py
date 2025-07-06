@@ -1,4 +1,4 @@
-def to_do_list(added_task,):
+def to_do_list(added_task):
     while True:
         try:
             num=int(input("""Enter the serial number of the task you want to perform:
